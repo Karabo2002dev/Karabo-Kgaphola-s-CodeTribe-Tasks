@@ -7,43 +7,11 @@
    viewBox="0 0 73.753529 19.595083"
    version="1.1"
    id="svg1"
-   inkscape:export-filename="bitmap.svg"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     inkscape:document-units="mm"
-     showguides="true">
-    <sodipodi:guide
-       position="4.2263898,-153.8247"
-       orientation="0,-1"
-       id="guide3"
-       inkscape:locked="false" />
-    <inkscape:page
-       x="-4.2035632e-15"
-       y="-1.5923772e-14"
-       width="73.753525"
-       height="19.595081"
-       id="page2"
-       margin="0"
-       bleed="0" />
-  </sodipodi:namedview>
   <defs
      id="defs1" />
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-2.3053046,-7.7803928)">
     <text
@@ -55,30 +23,32 @@
        transform="matrix(4.9572516,0,0,4.6659215,-535.76822,-510.1637)"><tspan
          x="112.95989"
          y="114.49677"
-         id="tspan2">KB.DEV</tspan></text>
+         id="tspan3"><tspan
+           style="fill:#ffffff"
+           id="tspan2">KB.DEV</tspan></tspan></text>
     <ellipse
-       style="fill:#000000;stroke-width:0.264583"
+       style="fill:#ffffff;stroke-width:0.264583"
        id="path1"
        cx="12.294955"
        cy="17.577934"
        rx="9.9896507"
        ry="9.7975416" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-opacity:1"
        id="rect1"
        width="13.543662"
        height="6.5316925"
        x="5.5711513"
        y="13.639702" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.264583;stroke-opacity:1"
        id="rect2"
        width="1.7289779"
        height="2.0171409"
        x="11.622573"
        y="20.363518" />
     <rect
-       style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0.141832;stroke-opacity:1"
+       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:0.141832;stroke-opacity:1"
        id="rect3"
        width="13.474303"
        height="0.21880519"

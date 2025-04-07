@@ -23,48 +23,56 @@
         </ul>
       </nav>
     </header>
-    <div class="banner-container">
-            <img src="banner.jpg" alt="banner" />
-    </div>
-    <main>
-        
-        <section id="MyBio">
-               
-            <div class="about-me-content" >
-                <h2>Karabo Kgaphola</h2>
-                <p>
-                    Karabo Kgaphola is an aspiring software developer with a strong
-                    foundation in Information Technology and Computer Science, holding
-                    an NCV Level 4 qualification. Passionate about coding, Karabo has
-                    experience in Visual Basic, HTML, CSS, and JavaScript and recently
-                    completed the Cisco Networking Academy JavaScript Essentials 1
-                    course.
-                </p>
-                <p>
-                    Eager to break into the tech industry, Karabo is exploring
-                    opportunities in web design, freelancing, and AI development while
-                    also planning to build a full web application using Python. With a
-                    keen interest in innovation, Karabo is working on GroovyFinder, a
-                    Next.js-based platform to help people discover festivals, events,
-                    and nearby accommodations.
-                </p>
-                <p>
-                    Beyond coding, Karabo is dedicated to self-improvement, balancing
-                    responsibilities at home while striving to advance both
-                    professionally and personally.
-                </p>
-            </div>
-           
-            <img class="profile-picture"
-                src="profile picture.jpg"
-                alt="profile-picture"
-                        
-            />
-            
-            
-        </section>
-    </main>
     
+    <main>
+    
+      <section id="ContactMe">
+        <h1>Contact Me</h1>
+        <p>If you have any questions or would like to get in touch, please fill out the form below.</p>
+        <p>You can also reach me at:</p>
+        <form class="contact-form">
+            <h2>If you want to get in touch fill and submit</h2>
+            <label for="name">Full Name:</label>
+            <input
+            type="text"
+            id="name"
+            name="name"
+            placeholder="Your Name"
+            required
+            />
+
+            <label for="email">Email:</label>
+            <input
+            type="email"
+            id="email"
+            name="email"
+            placeholder="Your Email"
+            required
+            />
+
+            <label for="subject">Subject:</label>
+            <input
+            type="text"
+            id="subject"
+            name="subject"
+            placeholder="Subject"
+            required
+            />
+
+          <label for="message">Message:</label>
+          <textarea
+            id="message"
+            name="message"
+            rows="4"
+            placeholder="Write your message here..."
+            required
+          ></textarea>
+
+          <button type="submit">Send Message</button>
+        </form>
+      </section>
+    </main>
+
     <footer> 
         <div class="footer-content">
             <address>
@@ -99,6 +107,5 @@
         </div>
         
     </footer>
-    
   </body>
 </html>
